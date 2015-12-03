@@ -1,0 +1,15 @@
+node_modules
+dogsay
+.tern-port
+.\#*
+.#*
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+*.swp
+#*
+\#*
+*#
+tags
+*~
